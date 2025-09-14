@@ -1,1 +1,1 @@
-# akashbase2- base for Git / Github learning 
+# akashbase2- base for Git / Github learning & revision 
